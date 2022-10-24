@@ -1,0 +1,16 @@
+C:\Users\ACER 3\source\repos\Laboratorna3\Laboratorna6.2\bin\Debug\net5.0\Laboratorna6.2.exe
+C:\Users\ACER 3\source\repos\Laboratorna3\Laboratorna6.2\bin\Debug\net5.0\Laboratorna6.2.deps.json
+C:\Users\ACER 3\source\repos\Laboratorna3\Laboratorna6.2\bin\Debug\net5.0\Laboratorna6.2.runtimeconfig.json
+C:\Users\ACER 3\source\repos\Laboratorna3\Laboratorna6.2\bin\Debug\net5.0\Laboratorna6.2.runtimeconfig.dev.json
+C:\Users\ACER 3\source\repos\Laboratorna3\Laboratorna6.2\bin\Debug\net5.0\Laboratorna6.2.dll
+C:\Users\ACER 3\source\repos\Laboratorna3\Laboratorna6.2\bin\Debug\net5.0\ref\Laboratorna6.2.dll
+C:\Users\ACER 3\source\repos\Laboratorna3\Laboratorna6.2\bin\Debug\net5.0\Laboratorna6.2.pdb
+C:\Users\ACER 3\source\repos\Laboratorna3\Laboratorna6.2\obj\Debug\net5.0\Laboratorna6.2.csproj.AssemblyReference.cache
+C:\Users\ACER 3\source\repos\Laboratorna3\Laboratorna6.2\obj\Debug\net5.0\Laboratorna6.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER 3\source\repos\Laboratorna3\Laboratorna6.2\obj\Debug\net5.0\Laboratorna6.2.AssemblyInfoInputs.cache
+C:\Users\ACER 3\source\repos\Laboratorna3\Laboratorna6.2\obj\Debug\net5.0\Laboratorna6.2.AssemblyInfo.cs
+C:\Users\ACER 3\source\repos\Laboratorna3\Laboratorna6.2\obj\Debug\net5.0\Laboratorna6.2.csproj.CoreCompileInputs.cache
+C:\Users\ACER 3\source\repos\Laboratorna3\Laboratorna6.2\obj\Debug\net5.0\Laboratorna6.2.dll
+C:\Users\ACER 3\source\repos\Laboratorna3\Laboratorna6.2\obj\Debug\net5.0\ref\Laboratorna6.2.dll
+C:\Users\ACER 3\source\repos\Laboratorna3\Laboratorna6.2\obj\Debug\net5.0\Laboratorna6.2.pdb
+C:\Users\ACER 3\source\repos\Laboratorna3\Laboratorna6.2\obj\Debug\net5.0\Laboratorna6.2.genruntimeconfig.cache
